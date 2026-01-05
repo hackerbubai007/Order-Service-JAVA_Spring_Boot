@@ -42,14 +42,7 @@ public class OrderInfo {
 		this.qty = qty;
 	}
 
-	@Override
-	public String toString() {
-		return "OrderInfo [itemName=" + itemName + ", price=" + price + ", productId=" + productId + ", qty=" + qty
-				+ ", getItemName()=" + getItemName() + ", getPrice()=" + getPrice() + ", getProductId()="
-				+ getProductId() + ", getQty()=" + getQty() + ", getClass()=" + getClass() + ", hashCode()="
-				+ hashCode() + ", toString()=" + super.toString() + "]";
-	}
-
+	
 	
 	
 
